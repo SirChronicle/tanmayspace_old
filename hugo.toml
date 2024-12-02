@@ -1,8 +1,3 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
-
-[module]
-[[module.imports]]
-path = "github.com/hugo-porto/theme"
